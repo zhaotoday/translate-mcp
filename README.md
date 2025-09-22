@@ -1,1 +1,3 @@
-npm install @lr/translate-mcp
+```bash
+$ npm install @lr/translate-mcp
+```
